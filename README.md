@@ -48,17 +48,4 @@ To run this portfolio locally, follow these steps:
 ## Usage
 After installing and running the project locally, you can navigate through the different sections of the portfolio using the navigation menu. Explore the About Me section to learn more about my background and skills. Visit the Projects section to see detailed information about my projects, including descriptions and screenshots. Use the Contact section to send me a message or inquiry.
 
-## Contributing
-Contributions are welcome! If you'd like to contribute to My Portfolio, please follow these steps:
 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b my-feature`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin my-feature`
-5. Open a pull request.
-<img width="957" alt="Screenshot 2023-12-03 144120" src="https://github.com/2001pravin/Vender-service-Management-System/assets/113687095/eea92a10-f03e-4c24-b170-51b828c8426e">
-<img width="957" alt="Screenshot 2023-12-03 144141" src="https://github.com/2001pravin/Vender-service-Management-System/assets/113687095/ec9595ae-ee51-41ec-9b87-d64134f8b675">
-<img width="956" alt="Screenshot 2023-12-03 144158" src="https://github.com/2001pravin/Vender-service-Management-System/assets/113687095/d452fd3d-701d-4059-8c7d-ee6d89ea5d99">
-
-
-https://github.com/2001pravin/Vender-service-Management-System/assets/113687095/9cc7720e-6651-41fd-b299-fe995868d87c
