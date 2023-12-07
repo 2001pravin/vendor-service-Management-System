@@ -24,17 +24,10 @@ In my Vendor Management project, I strategically designed and implemented a stre
 - HTML5 & CSS3: Markup and styling languages for building web pages.
 - JavaScript: A programming language for adding interactivity to web applications.
 - Style-Components: A CSS framework for creating responsive and mobile-first designs.
+- spring boot : Java, with Spring Boot for accelerated development and REST API for efficient communication, ensuring a robust and scalable architecture."
+- Hibernate :  establishes a robust database connection, ensuring seamless data management and retrieval with efficiency and precision.
 - Git: A version control system for tracking changes and collaborating on projects.
-- GitHub Pages: A platform for hosting and deploying web applications.
-
-## Installation
-To run this portfolio locally, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/rishavchanda/rishav-chanda-portfolio.git`
-2. Navigate to the project directory: `cd rishav-chanda-portfolio`
-3. Install the dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your browser and visit: `http://localhost:3000`
+- GitHub Pages: A platform for hosting and deploying web applications
 
 ## Usage
 After installing and running the project locally, you can navigate through the different sections of the portfolio using the navigation menu. Explore the About Me section to learn more about my background and skills. Visit the Projects section to see detailed information about my projects, including descriptions and screenshots. Use the Contact section to send me a message or inquiry.
