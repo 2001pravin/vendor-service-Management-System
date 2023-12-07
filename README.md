@@ -11,9 +11,7 @@ https://github.com/2001pravin/Vender-service-Management-System/assets/113687095/
 
 ## Table of Contents
 - [Introduction](#introduction)
-
 - [Technologies Used](#technologies-used)
-- [Usage](#usage)
 
 ## Introduction
 In my Vendor Management project, I strategically designed and implemented a streamlined system, enhancing efficiency and collaboration in vendor interactions while leveraging my web development skills to create a seamless user experience.
@@ -30,7 +28,5 @@ In my Vendor Management project, I strategically designed and implemented a stre
 - Git: A version control system for tracking changes and collaborating on projects.
 - GitHub Pages: A platform for hosting and deploying web applications
 
-## Usage
-After installing and running the project locally, you can navigate through the different sections of the portfolio using the navigation menu. Explore the About Me section to learn more about my background and skills. Visit the Projects section to see detailed information about my projects, including descriptions and screenshots. Use the Contact section to send me a message or inquiry.
 
 
