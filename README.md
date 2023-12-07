@@ -6,9 +6,6 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 <img width="450px;" src="https://github.com/2001pravin/Vender-service-Management-System/assets/113687095/eea92a10-f03e-4c24-b170-51b828c8426e"/>
 <img width="450px;" src="https://github.com/2001pravin/Vender-service-Management-System/assets/113687095/ec9595ae-ee51-41ec-9b87-d64134f8b675"/>
 <img width="450px;"  src="https://github.com/2001pravin/Vender-service-Management-System/assets/113687095/d452fd3d-701d-4059-8c7d-ee6d89ea5d99"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0e984e85-cbd9-487b-bf91-166009b39319"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/6ad7b63b-4c51-4c98-bd21-847e5d48d559"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/10647898-7154-434c-84e6-edee6679ca92"/>
 
 
 ## Table of Contents
