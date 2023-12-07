@@ -24,8 +24,9 @@ In my Vendor Management project, I strategically designed and implemented a stre
 - HTML5 & CSS3: Markup and styling languages for building web pages.
 - JavaScript: A programming language for adding interactivity to web applications.
 - Style-Components: A CSS framework for creating responsive and mobile-first designs.
-- spring boot : Java, with Spring Boot for accelerated development and REST API for efficient communication, ensuring a robust and scalable architecture."
+- spring boot : Java, with Spring Boot for accelerated development and REST API for efficient communication, ensuring a robust and scalable architecture.
 - Hibernate :  establishes a robust database connection, ensuring seamless data management and retrieval with efficiency and precision.
+- spring security : Spring Security is implemented to enhance the security of the project.
 - Git: A version control system for tracking changes and collaborating on projects.
 - GitHub Pages: A platform for hosting and deploying web applications
 
