@@ -1,6 +1,4 @@
-# Vender-service-Management-System
-In my Vendor Management project, I strategically designed and implemented a streamlined system, enhancing efficiency and collaboration in vendor interactions while leveraging my web development skills to create a seamless user experience
-
+# vendor-service-Management-System
 ###  [DEMO] 
 https://github.com/2001pravin/Vender-service-Management-System/assets/113687095/9cc7720e-6651-41fd-b299-fe995868d87c
 ## Some Images:
